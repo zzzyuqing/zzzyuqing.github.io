@@ -21,7 +21,7 @@ repository               : "zzzyuqing/zzzyuqing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zyq.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "State Key Lab of CAD&CG, Zhejiang University"
