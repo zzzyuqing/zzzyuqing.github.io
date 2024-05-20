@@ -21,22 +21,31 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 ## Publications
 *Equal contribution †Corresponding author
 
-* **DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models**
+<div style="display: flex;">
+  <div style="flex: 30%; padding: 5px;">
+  <img src="../images/dreammat.jpg" width="100%" alt="dreammat">
+</div>
 
-  **Yuqing Zhang***, [Yuan Liu*](https://liuyuan-pal.github.io/), Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou, [Cheng Lin](https://clinplayer.github.io/), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html), [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
+<div style="flex: 70%; padding: 5px;">
+  <b>DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models</b> <br>
+  <b>Yuqing Zhang*</b>,<a href="https://liuyuan-pal.github.io/">Yuan Liu</a>,Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou,<a href="https://clinplayer.github.io/">Cheng Lin</a>,<a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
+  ACM Transactions on Graphics (Proc. Siggraph 2024) <br>
+  <a href="https://zzzyuqing.github.io/dreammat.github.io/">Paper</a> <a href="https://zzzyuqing.github.io/dreammat.github.io/">Project Page</a> <a href="https://zzzyuqing.github.io/dreammat.github.io/">Code</a> <br>
+  </div>
+</div>
 
-  ACM Transactions on Graphics (Proc. Siggraph 2024)
+<div style="display: flex;">
+  <div style="flex: 30%; padding: 5px;">
+  <img src="../images/sdf.png" width="100%" alt="dreammat">
+</div>
+<div style="flex: 70%; padding: 5px;">
+  <b>Real-time Collision Detection between General SDFs</b> <br>
+  Pengfei Liu*, <b>Yuqing Zhang*</b>,<a href="https://drhewang.com/">He Wang</a>,Milo K. Yip, Elvis Liu, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
+  Computer-Aided Geometric Design 2024 <br>
+  <a href="http://www.cad.zju.edu.cn/home/jin/papers/Real_Time_CD_between_SDFs.pdf">Paper</a> <br>
+  </div>
+</div>
 
-  [\[Paper\]](https://zzzyuqing.github.io/dreammat.github.io/)  [\[Project Page\]](https://zzzyuqing.github.io/dreammat.github.io/) [\[code\]](https://zzzyuqing.github.io/dreammat.github.io/)
-
-  
-* **Real-time Collision Detection between General SDFs**
-
-  Pengfei Liu*, Yuqing Zhang*, [He Wang](https://drhewang.com/), Milo K. Yip, Elvis Liu, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
-
-  Computer-Aided Geometric Design 2024
-
-  [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/papers/Real_Time_CD_between_SDFs.pdf)
 
 * **Deformable 3D Gaussians for High-fidelity Monocular Dynamic Scene Reconstruction**
 
