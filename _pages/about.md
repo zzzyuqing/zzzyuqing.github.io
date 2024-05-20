@@ -61,3 +61,10 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
   Computer-Aided Geometric Design 2021
 
   [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)
+
+![这是一个图片](../images/WrinkleTransfer_Icon.jpg)
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| ![这是一个图片](../images/WrinkleTransfer_Icon.jpg)   | Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/) Computer-Aided Geometric Design 2021 [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)                         |
+     
