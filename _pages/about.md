@@ -70,5 +70,17 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 </style>
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| ![这是一个图片](../images/WrinkleTransfer_Icon.jpg)   | **Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**  <br> Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)  <br> Computer-Aided Geometric Design 2021 <br> [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)                         |
+| <img src="../images/WrinkleTransfer_Icon.jpg" width="50%" alt="图片描述">  | **Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**  <br> Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)  <br> Computer-Aided Geometric Design 2021 <br> [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)        |
+<table>
+  <tr>
+    <th style="width: 30%;"><img src="../images/WrinkleTransfer_Icon.jpg" width="50%" alt="图片描述"></th>
+    <th style="width: 70%;">**Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**  <br> Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)  <br> Computer-Aided Geometric Design 2021 <br> [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)</th>
+  </tr>
+  <tr>
+    <td>内容1</td>
+    <td>内容2</td>
+  </tr>
+</table>
+
+
      
