@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yuqing Zhang"
 title_separator          : "-"
-name                     : &name "Yuqing Zhang (张宇晴)"
+name                     : &name "Yuqing Zhang"
 description              : &description "personal description"
 url                      : https://zzzyuqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "zzzyuqing/zzzyuqing.github.io"
 author:
   # Biographic information
   avatar           : "zyq.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Yuqing Zhang"
   pronouns         : # example: "she/her"  
   bio              : "State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
