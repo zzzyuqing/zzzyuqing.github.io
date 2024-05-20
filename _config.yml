@@ -27,12 +27,12 @@ author:
   bio              : "State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
   employer         : 
-  uri              : "https://zzzyuqing.github.io"
+  uri              : #"https://zzzyuqing.github.io"
   email            : "3180102110@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=liS6f4QAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8512-0551"
   semantic         : # URL
