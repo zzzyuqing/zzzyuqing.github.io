@@ -21,6 +21,14 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 ## Publications
 *Equal contribution †Corresponding author
 
+<style>
+  p {
+    font-size: 12px;
+  }
+</style>
+
+<p>
+
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
   <img src="../images/dreammat.jpg" width="100%" alt="dreammat">
@@ -95,4 +103,4 @@ Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, <b>Yuqing Zhang</b
 </div>
 
 
-     
+</p>
