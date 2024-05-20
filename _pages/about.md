@@ -42,6 +42,8 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
   </div>
 </div>
 
+<br>
+
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
   <img src="../images/sdf.png" width="100%" alt="sdf">
@@ -54,6 +56,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
   </div>
 </div>
 
+<br>
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
   <img src="../images/guassian.jpg" width="100%" alt="guassian">
@@ -66,21 +69,21 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
   </div>
 </div>
 
+<br>
+
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
-
   <img src="../images/crowd.jpg" width="100%" alt="图片描述">
-
-  </div>
-  <div style="flex: 80%; padding: 5px;">
-
+</div>
+<div style="flex: 80%; padding: 5px;">
 <b>Model-based Crowd Behaviors in Human-solution Space</b> <br>
-
 Wei Xiang, <a href="https://drhewang.com/">He Wang</a>, <b>Yuqing Zhang</b>, Milo K. Yip, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
   Computer Graphics Forum 2023 <br>
   <a href="https://diglib.eg.org:8443/server/api/core/bitstreams/37b310ac-b9d0-42c7-8505-d281e3d8fc51/content">Paper</a> <a href="http://www.cad.zju.edu.cn/home/jin/cgf2023/cgf2023.htm">Project Page</a> <a href="http://www.cad.zju.edu.cn/home/jin/cgf2023/demo.mp4">Video</a> 
   </div>
 </div>
+
+<br>
 
 
 <div style="display: flex;">
