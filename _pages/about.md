@@ -43,7 +43,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
-
+  "sdf.jpg"
   ![这是一个图片](../images/sdf.png)
 
   </div>
