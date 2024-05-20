@@ -62,6 +62,25 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 
   [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)
 
+<div style="display: flex;">
+  <div style="flex: 20%; padding: 5px;">
+
+  <img src="../images/crowd.jpg" width="100%" alt="图片描述">
+
+  </div>
+  <div style="flex: 70%; padding: 5px;">
+
+<b>Model-based Crowd Behaviors in Human-solution Space</b> <br>
+
+Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
+
+  Computer-Aided Geometric Design 2021 <br>
+
+  <a href="https://diglib.eg.org:8443/server/api/core/bitstreams/37b310ac-b9d0-42c7-8505-d281e3d8fc51/content">Paper</a> <a href="http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm">Project Page</a> <a href="https://github.com/Dancingmader/3D-High-quality-Garment-Dataset">Dataset</a> 
+
+  </div>
+</div>
+
 
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
@@ -71,35 +90,16 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
   </div>
   <div style="flex: 70%; padding: 5px;">
 
-**Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**
+<b>Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display</b> <br>
 
-Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a>
+Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, <b>Yuqing Zhang</b>, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
 
-  Computer-Aided Geometric Design 2021
+  Computer-Aided Geometric Design 2021 <br>
 
   <a href="http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf">Paper</a> <a href="http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm">Project Page</a> <a href="https://github.com/Dancingmader/3D-High-quality-Garment-Dataset">Dataset</a> 
 
   </div>
 </div>
-
-<style>
-    table, th, td {
-        border: none !important;
-    }
-</style>
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| <img src="../images/WrinkleTransfer_Icon.jpg" width="50%" alt="图片描述">  | **Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**  <br> Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)  <br> Computer-Aided Geometric Design 2021 <br> [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)        |
-<table>
-  <tr>
-    <th style="width: 30%;"><img src="../images/WrinkleTransfer_Icon.jpg" width="50%" alt="图片描述"></th>
-    <th style="width: 70%;">**Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**  <br> Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)  <br> Computer-Aided Geometric Design 2021 <br> [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cagd2021/demo.mp4) [\[Dataset\]](https://github.com/Dancingmader/3D-High-quality-Garment-Dataset)</th>
-  </tr>
-  <tr>
-    <td>内容1</td>
-    <td>内容2</td>
-  </tr>
-</table>
 
 
      
