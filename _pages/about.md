@@ -32,7 +32,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
   
 * **Real-time Collision Detection between General SDFs**
 
-  Pengfei Liu*, **Yuqing Zhang***, [He Wang](https://drhewang.com/), Milo K. Yip, Elvis Liu, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
+  Pengfei Liu*, Yuqing Zhang*, [He Wang](https://drhewang.com/), Milo K. Yip, Elvis Liu, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
 
   Computer-Aided Geometric Design 2024
 
