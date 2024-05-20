@@ -28,7 +28,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 
 <div style="flex: 80%; padding: 5px;">
   <b>DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models</b> <br>
-  <b>Yuqing Zhang*</b>,<a href="https://liuyuan-pal.github.io/">Yuan Liu</a>,Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou,<a href="https://clinplayer.github.io/">Cheng Lin</a>,<a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
+  <b>Yuqing Zhang*</b>, <a href="https://liuyuan-pal.github.io/">Yuan Liu</a>, Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou, <a href="https://clinplayer.github.io/">Cheng Lin</a>, <a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
   ACM Transactions on Graphics (Proc. Siggraph 2024) <br>
   <a href="https://zzzyuqing.github.io/dreammat.github.io/">Paper</a> <a href="https://zzzyuqing.github.io/dreammat.github.io/">Project Page</a> <a href="https://zzzyuqing.github.io/dreammat.github.io/">Code</a> <br>
   </div>
@@ -40,7 +40,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 </div>
 <div style="flex: 80%; padding: 5px;">
   <b>Real-time Collision Detection between General SDFs</b> <br>
-  Pengfei Liu*, <b>Yuqing Zhang*</b>,<a href="https://drhewang.com/">He Wang</a>,Milo K. Yip, Elvis Liu, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
+  Pengfei Liu*, <b>Yuqing Zhang*</b>, <a href="https://drhewang.com/">He Wang</a>, Milo K. Yip, Elvis Liu, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
   Computer-Aided Geometric Design 2024 <br>
   <a href="http://www.cad.zju.edu.cn/home/jin/papers/Real_Time_CD_between_SDFs.pdf">Paper</a> <br>
   </div>
@@ -68,7 +68,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 
 <b>Model-based Crowd Behaviors in Human-solution Space</b> <br>
 
-Wei Xiang, <a href="https://drhewang.com/">He Wang</a>, **Yuqing Zhang**, Milo K. Yip, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
+Wei Xiang, <a href="https://drhewang.com/">He Wang</a>, <b>Yuqing Zhang</b>, Milo K. Yip, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
   Computer Graphics Forum 2023 <br>
   <a href="https://diglib.eg.org:8443/server/api/core/bitstreams/37b310ac-b9d0-42c7-8505-d281e3d8fc51/content">Paper</a> <a href="http://www.cad.zju.edu.cn/home/jin/cgf2023/cgf2023.htm">Project Page</a> <a href="http://www.cad.zju.edu.cn/home/jin/cgf2023/demo.mp4">Video</a> 
   </div>
