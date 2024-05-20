@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degrees in Digital Media Technology from Zhejiang University in 2022.
+I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my Bachelor degrees in Digital Media Technology from Zhejiang University in 2022.
 
 **Research Interest:** Texture generation, Simulation.
 
@@ -21,7 +21,7 @@ I'm Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Univ
 ## Publications
 *Equal contribution †Corresponding author
 
-* **DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models**
+**DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models**
 
   **Yuqing Zhang***, [Yuan Liu*](https://liuyuan-pal.github.io/), Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou, [Cheng Lin](https://clinplayer.github.io/), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html), [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
 
@@ -30,7 +30,7 @@ I'm Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Univ
   [\[Paper\]](https://zzzyuqing.github.io/dreammat.github.io/)  [\[Project Page\]](https://zzzyuqing.github.io/dreammat.github.io/) [\[code\]](https://zzzyuqing.github.io/dreammat.github.io/)
 
   
-* **Real-time Collision Detection between General SDFs**
+**Real-time Collision Detection between General SDFs**
 
   Pengfei Liu*, **Yuqing Zhang***, [He Wang](https://drhewang.com/), Milo K. Yip, Elvis Liu, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
 
@@ -38,7 +38,7 @@ I'm Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Univ
 
   [\[Paper\]](http://www.cad.zju.edu.cn/home/jin/papers/Real_Time_CD_between_SDFs.pdf)
 
-* **Deformable 3D Gaussians for High-fidelity Monocular Dynamic Scene Reconstruction**
+**Deformable 3D Gaussians for High-fidelity Monocular Dynamic Scene Reconstruction**
 
   [Ziyi Yang](https://github.com/ingra14m), Xinyu Gao, Wen Zhou, Shaohui Jiao, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
 
@@ -46,7 +46,7 @@ I'm Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Univ
 
   [\[Paper\]](https://arxiv.org/abs/2309.13101)  [\[Project Page\]](https://ingra14m.github.io/Deformable-Gaussians/) [\[code\]](https://github.com/ingra14m/Deformable-3D-Gaussians)
 
-* **Model-based Crowd Behaviors in Human-solution Space**
+**Model-based Crowd Behaviors in Human-solution Space**
 
   Wei Xiang, [He Wang](https://drhewang.com/), **Yuqing Zhang**, Milo K. Yip and [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
 
@@ -54,7 +54,7 @@ I'm Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Univ
 
   [\[Paper\]](https://diglib.eg.org:8443/server/api/core/bitstreams/37b310ac-b9d0-42c7-8505-d281e3d8fc51/content) [\[Project Page\]](http://www.cad.zju.edu.cn/home/jin/cgf2023/cgf2023.htm) [\[Video\]](http://www.cad.zju.edu.cn/home/jin/cgf2023/demo.mp4)
 
-* **Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**
+**Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display**
 
   Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, **Yuqing Zhang**, [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
 
