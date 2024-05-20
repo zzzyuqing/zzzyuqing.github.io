@@ -46,7 +46,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
-  <img src="../images/sdf.png" width="100%" alt="sdf">
+  <img src="../images/sdf.jpg" width="100%" alt="sdf">
 </div>
 <div style="flex: 80%; padding: 5px;">
   <b>Real-time Collision Detection between General SDFs</b> <br>
