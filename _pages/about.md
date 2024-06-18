@@ -36,7 +36,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 
 <div style="flex: 80%; padding: 5px;">
   <b>DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models</b> <br>
-  <b>Yuqing Zhang*</b>, <a href="https://liuyuan-pal.github.io/">Yuan Liu</a>, Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou, <a href="https://clinplayer.github.io/">Cheng Lin</a>, <a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
+  <b>Yuqing Zhang*</b>, <a href="https://liuyuan-pal.github.io/">Yuan Liu*</a>, Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou, <a href="https://clinplayer.github.io/">Cheng Lin</a>, <a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
   ACM Transactions on Graphics (Proc. Siggraph 2024) <br>
   <a href="https://arxiv.org/abs/2405.17176">Paper</a> | <a href="https://zzzyuqing.github.io/dreammat.github.io/">Project Page</a> | <a href="https://github.com/zzzyuqing/DreamMat">Code</a> <br>
   </div>
@@ -52,7 +52,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
   <b>Real-time Collision Detection between General SDFs</b> <br>
   Pengfei Liu*, <b>Yuqing Zhang*</b>, <a href="https://drhewang.com/">He Wang</a>, Milo K. Yip, Elvis Liu, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
   Computer-Aided Geometric Design 2024 <br>
-  <a href="http://www.cad.zju.edu.cn/home/jin/papers/Real_Time_CD_between_SDFs.pdf">Paper</a> <br>
+  <a href="http://www.cad.zju.edu.cn/home/jin/papers/Real_Time_CD_between_SDFs.pdf">Paper</a> |<a href="https://dlpf.github.io/sdf-collision.github.io/"> Project Page</a> <br>
   </div>
 </div>
 
