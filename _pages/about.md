@@ -51,7 +51,7 @@ I am Yuqing Zhang, a Master's student in State Key Lab of CAD&CG at Zhejiang Uni
 <div style="flex: 80%; padding: 5px;">
   <b>Real-time Collision Detection between General SDFs</b> <br>
   Pengfei Liu*, <b>Yuqing Zhang*</b>, <a href="https://drhewang.com/">He Wang</a>, Milo K. Yip, Elvis Liu, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
-  Computer-Aided Geometric Design 2024 <br>
+  Computer-Aided Geometric Design (Best Paper Award for GMP'2024) <br>
   <a href="http://www.cad.zju.edu.cn/home/jin/papers/Real_Time_CD_between_SDFs.pdf">Paper</a> |<a href="https://dlpf.github.io/sdf-collision.github.io/"> Project Page</a> <br>
   </div>
 </div>
