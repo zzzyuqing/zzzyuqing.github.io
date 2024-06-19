@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+### M.S. in Computer Science and Technology
+Sep. 2022 - Exp. Mar. 2025
+* State Key Lab of CAD&CG, Zhejiang University.
+* Advisor: Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
+### B.S. in Digital Media and Technology
+Sep. 2018 - Jun. 2022
+* ACEE, Chu Kochen Honors College, Zhejiang University.
+* The College of Computer Science and Technology, Zhejiang University.
+
+Internship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Tencent (IEG)
+July. 2024 - 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### miHoYo
+Apr. 2024 - July. 2024
+  * AIGC Algorithm Engineer
+  * Duties includes: texture refinement and generation for characters
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Style3D
+Feb. 2022 - Mar. 2023
+  * Duties included: cloud-based cloth simulation
+  * Advisor: Professor Huaming Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Maya, Blender, Substance Painter, Zbrush, Marmoset, Style3D/Cloth3D, Unity
+* C++, Python, C#
+* CUDA, Shader, Vue
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+Awards and Honors
+======
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <!-- <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
