@@ -124,7 +124,9 @@ Projects
   </div>
 </div>
 
+
 ### Website design:
+
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
   <img src="../images/covid.jpg" width="100%" alt="dreammat">
