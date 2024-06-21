@@ -95,15 +95,10 @@ Wei Xiang, <a href="https://drhewang.com/">He Wang</a>, <b>Yuqing Zhang</b>, Mil
   <div style="flex: 80%; padding: 5px;">
 
 <p><b>Automatic Pose and Wrinkle Transfer for Aesthetic Garment Display</b> <br>
-
 Luyuan Wang, Honglin Li, Qinjie Xiao, Xinran Yao, Xiaoyu Pan, <b>Yuqing Zhang</b>, <a href="http://www.cad.zju.edu.cn/home/jin/">Xiaogang Jin†</a> <br>
-
   Computer-Aided Geometric Design 2021 <br>
-
   <a href="http://www.cad.zju.edu.cn/home/jin/cagd2021/paper.pdf">Paper</a> | <a href="http://www.cad.zju.edu.cn/home/jin/cagd2021/cagd2021.htm">Project Page</a> | <a href="https://github.com/Dancingmader/3D-High-quality-Garment-Dataset">Dataset</a> </p>
 
   </div>
 </div>
 
-
-</p>
