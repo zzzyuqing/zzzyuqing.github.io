@@ -91,7 +91,7 @@ Projects
 </div>
 <div style="flex: 80%; padding: 5px;">
   <p>A project for the "Game Programming Design" course, this is a LowPoly-style, first-person 3D narrative-driven puzzle game. Players begin their journey in the afterlife at the Reincarnation Services Office, following the protagonist, a painter, through four paintings representing Spring, Summer, Autumn, and Winter. They explore the worlds within the paintings, retracing the past and making amends for regrets. Implemented in Unity, this was a collaborative project involving eight people, with myself serving as the lead programmer. 
-  <a href="https://www.bilibili.com/video/BV1nf4y1p72Z/">demo </a>
+  <a href="https://www.bilibili.com/video/BV1nf4y1p72Z/">demo </a></p>
   </div>
 </div>
 
@@ -101,7 +101,7 @@ Projects
 </div>
 <div style="flex: 80%; padding: 5px;">
   <p>A project for the "Human–Computer Interaction" course, this is a 3D rhythm-based mobile game where players control a bouncing ball in time with the music through various interaction methods to avoid obstacles and hit treasures. Implemented in Unity, this was a collaborative project involving four people, with myself serving as the lead programmer. 
-  <a href="https://www.bilibili.com/video/BV1r54y1b7wN/">demo </a>
+  <a href="https://www.bilibili.com/video/BV1r54y1b7wN/">demo </a></p>
   </div>
 </div>
 
@@ -111,7 +111,7 @@ Projects
 </div>
 <div style="flex: 80%; padding: 5px;">
   <p>A project for the "Computer Graphics" course, this is a racing game developed using OpenGL and C++, with in-game rendering, collision detection, and animation all implemented without the use of libraries. This was a collaborative project involving four people, where I was responsible for PBR asset creation and rendering.
-  <a href="https://www.bilibili.com/video/BV1N5411a7rn/">demo </a>
+  <a href="https://www.bilibili.com/video/BV1N5411a7rn/">demo </a></p>
   </div>
 </div>
 
@@ -121,7 +121,7 @@ Projects
 </div>
 <div style="flex: 80%; padding: 5px;">
   <p>A project for the "C Programming Language" course, this is a 2D bullet hell game where  players earn points by successfully shooting at moving saucers, but the game ends if they are hit. The entire game was developed solely in C language, utilizing a minimalist graphics library that only supports line and circle drawing. It features a rudimentary user system and a robust game design logic.
-  <a href="https://www.bilibili.com/video/BV1jYgCeiEjc/">demo </a>
+  <a href="https://www.bilibili.com/video/BV1jYgCeiEjc/">demo </a></p>
   </div>
 </div>
 
@@ -134,7 +134,7 @@ Projects
 </div>
 <div style="flex: 80%; padding: 5px;">
   <p>A project for the "Cross-Media Visualization" course, this is a visual analysis system constructed using Vue. It takes into account both medical and sociological perspectives and contrasts the similarities and differences between COVID-19 and SARS in aspects of regional transmission, epidemic control, and topic discussions.
-  <a href="https://www.bilibili.com/video/BV1mo4y1o7Gx/">demo </a>
+  <a href="https://www.bilibili.com/video/BV1mo4y1o7Gx/">demo </a></p>
   </div>
 </div>
 
@@ -144,7 +144,7 @@ Projects
 </div>
 <div style="flex: 80%; padding: 5px;">
   <p>A project for the "C Programming Language" course, this is a 2D bullet hell game where players earn points by successfully shooting at moving saucers, but the game ends if they are hit. The entire game is developed solely in C language, utilizing a minimalist graphics library that only supports line and circle drawing. It features a rudimentary user system and a robust game design logic.
-  <a href="https://www.bilibili.com/video/BV1bf4y1n7NX/">demo </a>
+  <a href="https://www.bilibili.com/video/BV1bf4y1n7NX/">demo </a></p>
   </div>
 </div>
 
@@ -154,7 +154,7 @@ Projects
 </div>
 <div style="flex: 80%; padding: 5px;">
   <p>A project for the "Digital Audio and Video" course, this is a an interactive music website utilizing Google Magenta's MusicVAE model to generated music and a 2D music parkour game map is dynamically constructed.
-  <a href="https://www.bilibili.com/video/BV1Sh411p7eB/">demo </a>
+  <a href="https://www.bilibili.com/video/BV1Sh411p7eB/">demo </a></p>
   </div>
 </div>
 
