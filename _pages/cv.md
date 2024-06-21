@@ -76,10 +76,10 @@ Skills
 
 Projects
 ======
-<b> Game design:</b>
+* <b> Game design:</b>
 <style>
   p {
-    font-size: 10px;
+    font-size: 11px;
   }
 </style>
 
@@ -126,7 +126,7 @@ Projects
 </div>
 
 
-<b>Website design:</b>
+* <b>Website design:</b>
 
 <div style="display: flex;">
   <div style="flex: 20%; padding: 5px;">
@@ -158,20 +158,4 @@ Projects
   </div>
 </div>
 
-<!-- Awards and Honors
-======
-* Award of Honor for Graduate -->
-  
-<!-- Talks
-====== -->
-  <!-- <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-====== -->
-  <!-- <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
 
